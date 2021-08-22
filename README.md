@@ -1,4 +1,4 @@
-### Olá, me chamo Gustavo Araújo. Sou Analista de dados, mas já atuei como Administrador de Dados e Administração de Banco de Dados. Tenho mais de 5 anos de experiência na área de TI.
+### Olá, me chamo Gustavo Araújo. Sou engenheiro de dados, mas já atuei como Administrador de Dados e Administração de Banco de Dados. Tenho mais de 5 anos de experiência na área de TI.
 
 #### Atualmente faço mestrado e minha linha de pesquisa é Sistemas Inteligentes, que tem como objetivo o desenvolvimento e a aplicação de técnicas, métodos e conceitos de inteligência artificial, aprendizagem de máquina, ciência de dados, visão computacional, reconhecimento de padrões com foco na indústria, negócios, educação, saúde e no agronegócio.
 
